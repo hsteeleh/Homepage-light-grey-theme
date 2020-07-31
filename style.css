@@ -1,0 +1,187 @@
+body {
+    background:#dee0e2; !important;
+}
+
+.card{
+  border:none;
+}
+
+/* Top Bar*/
+
+.topBar{
+  background-color: #000000;
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+
+}
+
+#link{
+  color: #FFFFFF; 
+  font-size: 10pt;
+}
+
+#topBarLinks{
+ text-align: right;
+ color: white;
+}
+
+.btn {
+  background-color: orangered;
+  align-content: right;
+  border:none;
+}
+#submit{
+  color:white; !important;
+}
+
+/* Top Banner*/
+h1{
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 44pt;
+  margin-top:0%;
+  }   
+
+
+.topBanner {
+    margin-top: 0%;
+    margin-bottom:0%;
+    color: #EC008C;
+    text-align: center;
+  }
+
+  #search{
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+
+  .card bg-dark text-white{
+    width: 100%;
+    height: 10%;
+  }
+/* Card bodies */
+
+
+ .card-body{
+  background-color:#FFFFFF;  
+  
+  /*background-color: #dee0e2;*/
+ }
+ .card-text{
+   color:black;
+   /*color:#dee0e2;*/
+ }
+ 
+  /*USER TILES*/
+  
+  .userContainer{
+    background-color:#dee0e2;
+    padding: 0%;
+    margin-top: 10%;
+    margin-bottom:10%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  
+
+/*Experience TILES*/
+  
+.experienceContainer{
+  background-color:#dee0e2;
+  padding: 0%;
+  margin-top: 10%;
+  margin-bottom:10%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#analyticsCard{
+  margin-bottom: 5%;
+}
+
+#peopleStructureCard{
+  margin-bottom: 5%;
+}
+
+#skillsIQCard{
+  margin-bottom: 5%;
+}
+
+
+  /* PRODUCTS */
+
+  .productContainer{
+    background-color: #dee0e2;  /**181818*/
+    margin-top: 10%;
+    margin-bottom:10%;
+    margin-left: 15%;
+    margin-right:15%;
+    padding: 0%;
+  }
+
+  h4{
+    color: #2e2e2e;
+  }
+  h5{
+    color: #EC008C;
+    font-size: 14pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    } 
+    
+    h6{
+    color: #2e2e2e;
+    
+    }
+
+  #pluralsightCard {
+    margin-left: 30%;
+    margin-right: 10%;
+  }
+
+  #flowCard{
+    margin-left: 0%;
+    margin-right: 25%;
+  }
+  
+  
+/* TOPICS */
+h2{
+  color:#2e2e2e;
+  /* color:#dee0e2; */
+}
+
+.topicsLine{
+  background-color: #91499e;
+  padding: 1px;
+  margin-top:20px;
+  margin-bottom: 10px;
+}
+
+#topicsLine{
+  background-color: #4565ae;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+.topicsContainer{
+    padding:0%;
+    margin-right: 14%;
+    margin-left: 14%;
+    margin-bottom: 15%;
+}
+
+ #link{
+   color:#4565ae;
+ }
+
+ /*Footer*/
+
+
+.footer{
+  background-color: #000000;
+}
+#copyright{
+  color: #FFFFFF; 
+  font-size: 10pt;
+  }
